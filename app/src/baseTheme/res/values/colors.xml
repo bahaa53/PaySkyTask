@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="grayColor">#D2756A6A</color>
+    <color name="whiteColor">#FFFFFFFF</color>
+    <color name="blueColor">#6072D6</color>
+
+    <!-- Recycler View Item Style -->
+    <color name="item_background_color">@color/whiteColor</color>
+    <color name="textview_repo_name_color">@color/blueColor</color>
+    <color name="textview_repo_desc_color">@color/grayColor</color>
+    <color name="textview_shortcut_desc_color">@color/grayColor</color>
+</resources>

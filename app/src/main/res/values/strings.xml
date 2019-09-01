@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pay Sky Task</string>
+    <string name="no_items_selected_yet">No Items Found</string>
+    <string name="github_repositories">Github Repositories</string>
+</resources>
